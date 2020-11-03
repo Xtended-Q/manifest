@@ -77,9 +77,11 @@
 
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
+  <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/libcxx" />
+  <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/openssh" />
@@ -210,6 +212,7 @@
   <remove-project name="platform/system/keymaster" />
   <remove-project name="platform/system/libufdt" />
   <remove-project name="platform/system/netd" />
+  <remove-project name="platform/system/nfc" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
