@@ -64,6 +64,7 @@
     <project path="external/sonivox" name="external_sonivox" remote="xtended" />
     <project path="external/libexif" name="external_libexif" remote="xtended" />
     <project path="external/freetype" name="external_freetype" remote="xtended" />
+    <project path="external/libaom" name="external_libaom" remote="xtended" />
 
     <!-- Framework Repos -->
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
@@ -83,6 +84,7 @@
 
     <!-- Packages Repos -->
     <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" />
+    <project path="packages/apps/Car/Settings" name="packages_apps_Car_Settings" remote="xtended" />
     <project path="packages/apps/CertInstaller" name="packages_apps_CertInstaller" remote="xtended" />
     <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="xtended" />
     <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="xtended" />
