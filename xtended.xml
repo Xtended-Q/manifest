@@ -70,6 +70,7 @@
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
     <project path="frameworks/base" name="frameworks_base" remote="xtended" />
     <project path="frameworks/native" name="frameworks_native" remote="xtended" />
+    <project path="frameworks/minikin" name="frameworks_minikin" remote="xtended" />
     <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="xtended" />
     <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="xtended" />
     <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" />
@@ -133,6 +134,7 @@
     <project path="system/netd" name="system_netd" remote="xtended" />
     <project path="system/nfc" name="system_nfc" remote="xtended" />
     <project path="system/sepolicy" name="system_sepolicy" remote="xtended" />
+    <project path="system/security" name="system_security" remote="xtended" />
     <project path="system/update_engine" name="system_update_engine" remote="xtended" /> 
     <project path="system/vold" name="system_vold" remote="xtended" />
     <project path="system/tools/aidl" name="system_tools_aidl" remote="xtended" />
