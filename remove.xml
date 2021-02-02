@@ -82,10 +82,12 @@
   <remove-project name="platform/external/freetype" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/libaom" />
+  <remove-project name="platform/external/libavc" />
   <remove-project name="platform/external/libcxx" />
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/mksh" />
+  <remove-project name="platform/external/okhttp" />
   <remove-project name="platform/external/openssh" />
   <remove-project name="platform/external/ppp" />
   <remove-project name="platform/external/python/asn1crypto" />
@@ -106,6 +108,7 @@
   <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/sonivox" />
+  <remove-project name="platform/external/wpa_supplicant_8" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />

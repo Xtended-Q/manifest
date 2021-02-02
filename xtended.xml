@@ -65,6 +65,9 @@
     <project path="external/libexif" name="external_libexif" remote="xtended" />
     <project path="external/freetype" name="external_freetype" remote="xtended" />
     <project path="external/libaom" name="external_libaom" remote="xtended" />
+    <project path="external/libavc" name="external_libavc" remote="xtended" />
+    <project path="external/okhttp" name="external_okhttp" remote="xtended" />
+    <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="xtended" />
 
     <!-- Framework Repos -->
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
