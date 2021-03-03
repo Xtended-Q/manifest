@@ -68,6 +68,8 @@
     <project path="external/libavc" name="external_libavc" remote="xtended" />
     <project path="external/okhttp" name="external_okhttp" remote="xtended" />
     <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="xtended" />
+    <project path="external/dnsmasq" name="external_dnsmasq" remote="xtended" />
+    <project path="external/v8" name="external_v8" remote="xtended" />
 
     <!-- Framework Repos -->
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
@@ -129,6 +131,7 @@
     <!-- System Repos -->
     <project path="system/bt" name="system_bt" remote="xtended" />
     <project path="system/bpf" name="system_bpf" remote="xtended" />
+    <project path="system/connectivity/wificond" name="system_connectivity_wificond" remote="xtended" />
     <project path="system/core" name="system_core" remote="xtended" />
     <project path="system/extras" name="system_extras" remote="xtended" />
     <project path="system/hardware/interfaces" name="system_hardware_interfaces" remote="xtended" />
@@ -141,6 +144,7 @@
     <project path="system/update_engine" name="system_update_engine" remote="xtended" /> 
     <project path="system/vold" name="system_vold" remote="xtended" />
     <project path="system/tools/aidl" name="system_tools_aidl" remote="xtended" />
+    <project path="system/tools/hidl" name="system_tools_hidl" remote="xtended" />
     
     <!-- Vendor Repo -->
     <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />

@@ -78,6 +78,7 @@
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
   <remove-project name="platform/external/aac" />
+  <remove-project name="platform/external/dnsmasq" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/freetype" />
   <remove-project name="platform/external/gptfdisk" />
@@ -109,6 +110,7 @@
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/sonivox" />
   <remove-project name="platform/external/wpa_supplicant_8" />
+  <remove-project name="platform/external/v8" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
@@ -213,6 +215,7 @@
   <!-- System -->
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/bpf" />
+  <remove-project name="platform/system/connectivity/wificond" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/hardware/interfaces" />
@@ -225,6 +228,7 @@
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/tools/aidl" />
+  <remove-project name="platform/system/tools/hidl" />
   <!-- Unused IME -->
   <remove-project name="platform/packages/apps/Car/LatinIME" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
