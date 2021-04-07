@@ -74,6 +74,7 @@
     <!-- Framework Repos -->
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
     <project path="frameworks/base" name="frameworks_base" remote="xtended" />
+    <project path="frameworks/hardware/interfaces" name="frameworks_hardware_interfaces" remote="xtended" />
     <project path="frameworks/native" name="frameworks_native" remote="xtended" />
     <project path="frameworks/minikin" name="frameworks_minikin" remote="xtended" />
     <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="xtended" />
