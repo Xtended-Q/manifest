@@ -70,6 +70,7 @@
     <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="xtended" />
     <project path="external/dnsmasq" name="external_dnsmasq" remote="xtended" />
     <project path="external/v8" name="external_v8" remote="xtended" />
+    <project path="external/chromium-libpac" name="external_chromium-libpac" remote="xtended" />
 
     <!-- Framework Repos -->
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
