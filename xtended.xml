@@ -141,6 +141,7 @@
     <project path="system/hardware/interfaces" name="system_hardware_interfaces" remote="xtended" />
     <project path="system/keymaster" name="system_keymaster" remote="xtended" />
     <project path="system/libfmq" name="system_libfmq" remote="xtended" />
+    <project path="system/libhwbinder" name="system_libhwbinder" remote="xtended" />
     <project path="system/libufdt" name="system_libufdt" remote="xtended" />
     <project path="system/netd" name="system_netd" remote="xtended" />
     <project path="system/nfc" name="system_nfc" remote="xtended" />
