@@ -236,6 +236,7 @@
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/system/tools/aidl" />
   <remove-project name="platform/system/tools/hidl" />
+
   <!-- Unused IME -->
   <remove-project name="platform/packages/apps/Car/LatinIME" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />

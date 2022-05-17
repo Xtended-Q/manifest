@@ -9,12 +9,12 @@ A ROM Based on AOSP, with features from almost all Custom ROMs available.
 To initialize your local repository, use this command:
 -----------------------------------------------------
 
-    repo init -u https://github.com/Project-Xtended/manifest.git -b xq
+    repo init -u https://github.com/Xtended-Q/manifest.git -b xq
 
 To sync the repository, use this command:
 -----------------------------------------
 
-    repo sync -c --force-sync --no-tags --no-clone-bundle 
+    repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 To Build, use following commands:
 ---------------------------------

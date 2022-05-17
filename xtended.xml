@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="github"
-           fetch="https://github.com" />
+  <remote name="github"
+          fetch="https://github.com" />
   
-    <remote  name="gitlab"
-           fetch="https://gitlab.com" />
+  <remote name="gitlab"
+          fetch="https://gitlab.com" />
 
-  <remote  name="xtended"
-           fetch="https://github.com/Project-Xtended" 
-           revision="refs/heads/xq" />
+  <remote name="xtended"
+          fetch="https://github.com/Xtended-Q"
+          revision="refs/heads/xq" />
            
-  <remote  name="Xtended-Devices"
-           fetch="https://github.com/Xtended-Devices"
-           revision="refs/heads/xq" />
-
+  <remote name="Xtended-Devices"
+          fetch="https://github.com/Xtended-Devices"
+          revision="refs/heads/xq" />
 
     <!-- General Repos -->
     <project path="art" name="art" remote="xtended" />
@@ -109,8 +108,8 @@
     <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
     <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="xtended" />
     <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="xtended" />        
-    <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" />
-    <project path="packages/apps/Snap" name="packages_apps_Snap"  remote="xtended" />
+    <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xtended" />
+    <project path="packages/apps/Snap" name="packages_apps_Snap" remote="xtended" />
     <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
     <project path="packages/apps/Updater" name="packages_apps_Updater" remote="xtended" />
     <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="xtended" />
