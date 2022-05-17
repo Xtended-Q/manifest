@@ -149,6 +149,7 @@
     <project path="system/libfmq" name="system_libfmq" remote="xtended" />
     <project path="system/libhwbinder" name="system_libhwbinder" remote="xtended" />
     <project path="system/libufdt" name="system_libufdt" remote="xtended" />
+    <project path="system/media" name="system_media" remote="xtended" />
     <project path="system/netd" name="system_netd" remote="xtended" />
     <project path="system/nfc" name="system_nfc" remote="xtended" />
     <project path="system/sepolicy" name="system_sepolicy" remote="xtended" />
