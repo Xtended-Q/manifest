@@ -111,6 +111,7 @@
     <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="xtended" />
     <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="xtended" />        
     <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xtended" />
+    <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
     <project path="packages/apps/Snap" name="packages_apps_Snap" remote="xtended" />
     <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
     <project path="packages/apps/Updater" name="packages_apps_Updater" remote="xtended" />
