@@ -164,5 +164,6 @@
     <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
     <project path="vendor/xtras" name="vendor_xtras" remote="xtended" />
     <project path="vendor/qcom/opensource/commonsys/system/bt" name="vendor_qcom_opensource_system_bt" remote="xtended" />
+    <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="vendor_qcom_opensource_packages_apps_Bluetooth" remote="xtended" />
 
 </manifest>
